@@ -8,11 +8,11 @@
 
 - 🌱 I’m currently learning **Js/React**
 
-- 👨‍💻 All of my projects are available at [https://github.com/HyatMyat4?tab=repositories](https://github.com/HyatMyat4?tab=repositories)
+- 👨‍💻 All of my projects are available at [https://github.com/ThuTa4?tab=repositories](https://github.com/ThuTa4?tab=repositories)
 
-- 💬 Ask me about FullStack SoftwareEngineer **React , Next js , Tauri**
+- 💬 Ask me about FullStack SoftwareEngineer **Html , Css , Javascript**
 
-- 📫 How to reach me **hyatmyat79@gmail.com**
+- 📫 How to reach me **thuta779@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
